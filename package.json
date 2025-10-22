@@ -1,0 +1,11 @@
+{
+  "name": "automate-code-deployment-using-cicd-pipeline",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Running basic test...\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
