@@ -1,6 +1,6 @@
 {
   "project": "Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)",
-  "dockerhub": "munaqhad/nodejs-demo-app",
+  "dockerhub": "yaseer926/nodejs-demo-app",
   "language": "Node.js",
   "pipeline": "GitHub Actions + DockerHub"
 }
